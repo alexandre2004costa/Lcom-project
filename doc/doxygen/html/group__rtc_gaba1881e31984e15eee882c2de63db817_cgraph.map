@@ -1,0 +1,15 @@
+<map id="update_time" name="update_time">
+<area shape="rect" id="Node000001" title="Updates the real_time variable with the current time." alt="" coords="5,80,99,105"/>
+<area shape="rect" id="Node000002" href="$group__rtc.html#gae7a2842ab9188815646c23f15e18ef52" title="Converts a decimal number to binary." alt="" coords="147,5,265,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="75,77,145,40,156,35,158,40,148,44,77,82"/>
+<area shape="rect" id="Node000003" href="$group__rtc.html#ga5873dc86f56c4a2a8ea8f7faf07ef798" title="Checks if the provided output is in binary." alt="" coords="158,55,254,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="99,82,142,75,143,80,100,88"/>
+<area shape="rect" id="Node000004" href="$group__rtc.html#ga8e4030507a3afad53e5b80851f90d193" title="Receives a rtc output using a command." alt="" coords="313,105,393,131"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="99,94,298,111,297,116,98,99"/>
+<area shape="rect" id="Node000006" href="$group__rtc.html#ga47d5762e49eb390b04a09fc319c4e047" title="Checks if the rtc is updating by getting its current output." alt="" coords="151,156,261,181"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="81,104,166,146,164,151,78,108"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="246,78,301,97,299,102,244,83"/>
+<area shape="rect" id="Node000005" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="441,105,532,131"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="394,115,426,115,426,121,394,121"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="244,153,299,134,301,139,246,158"/>
+</map>

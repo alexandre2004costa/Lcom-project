@@ -1,0 +1,23 @@
+<map id="create_object" name="create_object">
+<area shape="rect" id="Node000001" title="Creates an object with no speed. Uses sprite creation for the sprite parameter." alt="" coords="781,55,881,80"/>
+<area shape="rect" id="Node000002" href="$group___bomb.html#gade10140bd209c6f9212a8b603f23eae6" title="Creates a bomb/bullet Object with vertical speed." alt="" coords="641,55,733,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="766,70,734,70,734,65,766,65"/>
+<area shape="rect" id="Node000008" href="$group___plane.html#ga2eedcf23eb2576f1bac3d09f1b82707d" title="Creates a Plane Object, that can appear on either the right or left, and is added to the array of Pla..." alt="" coords="642,5,733,31"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="777,52,726,34,728,29,779,47"/>
+<area shape="rect" id="Node000009" href="$group__model.html#gad4c13dd9271c5262593c76bedb82fdc0" title="Creates objects for moving elements and sprites for non moving ones." alt="" coords="337,141,423,167"/>
+<area shape="poly" id="edge11_Node000001_Node000009" title=" " alt="" coords="768,87,734,95,562,128,424,150,423,145,561,123,733,90,767,82"/>
+<area shape="rect" id="Node000003" href="$group__model.html#gacab6ba93e2538f2486577bbaad71838f" title="Actions that take place taking into consideration the count." alt="" coords="497,5,583,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="632,52,579,34,581,29,634,47"/>
+<area shape="rect" id="Node000006" href="$group__model.html#ga615cbd03432a5100300013ef5183eac4" title="Creates actions for the left mouse button clicking depending on the game state." alt="" coords="487,55,593,80"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="626,70,594,70,594,65,626,65"/>
+<area shape="rect" id="Node000004" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,55,273,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="482,28,322,51,274,60,273,54,321,46,481,23"/>
+<area shape="rect" id="Node000005" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,92,115,117"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="148,87,115,94,114,89,147,81"/>
+<area shape="poly" id="edge8_Node000006_Node000004" title=" " alt="" coords="471,70,274,70,274,65,471,65"/>
+<area shape="rect" id="Node000007" href="$group__model.html#gabcfbfb281c513ee546d8987b387614d7" title="Manage the bytes sended from the other player." alt="" coords="321,92,439,117"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="472,86,438,94,437,89,471,81"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="307,91,273,83,274,77,308,85"/>
+<area shape="poly" id="edge10_Node000008_Node000003" title=" " alt="" coords="626,21,584,21,584,15,626,15"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="321,148,114,116,115,110,322,142"/>
+</map>

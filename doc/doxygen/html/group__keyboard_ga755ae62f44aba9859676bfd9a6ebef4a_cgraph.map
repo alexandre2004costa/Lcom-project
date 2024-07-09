@@ -1,0 +1,13 @@
+<map id="enableInterrupt" name="enableInterrupt">
+<area shape="rect" id="Node000001" title="Enables keyboard interrupts." alt="" coords="5,31,112,56"/>
+<area shape="rect" id="Node000002" href="$group__kbc.html#ga41f2c6dbc1a38c60212be5c0b631607c" title="Reads the KBC output buffer." alt="" coords="171,55,295,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,48,156,54,155,59,112,53"/>
+<area shape="rect" id="Node000005" href="$group__kbc.html#ga34b653b3939fffe883c903cdadb36d3a" title="Writes a command byte to the KBC." alt="" coords="160,5,307,31"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="112,33,144,28,145,34,113,38"/>
+<area shape="rect" id="Node000003" href="$group__kbc.html#gac024af91b156e4fc61ee3886b891de21" title="Reads the KBC status register." alt="" coords="355,5,479,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="282,52,352,33,353,38,284,57"/>
+<area shape="rect" id="Node000004" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="527,31,617,56"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="296,60,511,45,512,50,296,66"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="480,26,512,31,511,36,479,31"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="307,15,339,15,339,21,307,21"/>
+</map>

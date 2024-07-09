@@ -1,0 +1,21 @@
+<map id="dequeue" name="dequeue">
+<area shape="rect" id="Node000001" title="Removes an item from the queue." alt="" coords="772,57,843,83"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#ga2dd6406014af999e58372ea694914896" title="Retrieves the top byte from the receive queue." alt="" coords="641,19,724,44"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="756,57,724,47,725,42,758,52"/>
+<area shape="rect" id="Node000006" href="$group__serial_port.html#ga80f7d8188f4fae588b084a0d3e0903c5" title="Sends a byte from the transmit queue if it is not empty and the serial port is ready to write." alt="" coords="644,81,721,107"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="757,82,722,89,721,84,756,77"/>
+<area shape="rect" id="Node000003" href="$group__model.html#gabcfbfb281c513ee546d8987b387614d7" title="Manage the bytes sended from the other player." alt="" coords="321,5,439,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="626,32,439,23,439,18,626,26"/>
+<area shape="rect" id="Node000004" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,81,273,107"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="338,40,248,83,246,79,336,35"/>
+<area shape="rect" id="Node000005" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,81,115,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,97,115,97,115,91,147,91"/>
+<area shape="poly" id="edge11_Node000006_Node000004" title=" " alt="" coords="633,115,570,133,492,150,406,156,363,154,321,147,275,130,238,110,240,105,277,125,322,142,364,149,406,151,491,144,569,128,632,110"/>
+<area shape="rect" id="Node000007" href="$group__model.html#ga615cbd03432a5100300013ef5183eac4" title="Creates actions for the left mouse button clicking depending on the game state." alt="" coords="487,56,593,81"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="628,87,593,81,594,76,629,82"/>
+<area shape="rect" id="Node000008" href="$group__serial_port.html#gae0fe040b0f68ce53058ee5d71e8c839a" title="Interrupt handler for serial port." alt="" coords="345,107,415,132"/>
+<area shape="poly" id="edge9_Node000006_Node000008" title=" " alt="" coords="628,101,416,119,416,114,628,96"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="482,53,422,34,423,29,484,48"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="471,77,274,92,274,87,471,71"/>
+<area shape="poly" id="edge10_Node000008_Node000004" title=" " alt="" coords="329,114,273,105,274,100,330,109"/>
+</map>

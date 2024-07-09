@@ -1,0 +1,5 @@
+<map id="drawMultipleSprite" name="drawMultipleSprite">
+<area shape="rect" id="Node000001" title="In a xpm map where there are multiple images for individual sprites, this function retrieves only the..." alt="" coords="5,5,133,31"/>
+<area shape="rect" id="Node000002" href="$group__graphic.html#gad1947e779c7e35bbb53b70479c173887" title="Sets a pixel color at given coordinates." alt="" coords="181,5,265,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,15,166,15,166,21,134,21"/>
+</map>

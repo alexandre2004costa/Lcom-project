@@ -1,0 +1,5 @@
+<map id="create_object" name="create_object">
+<area shape="rect" id="Node000001" title="Creates an object with no speed. Uses sprite creation for the sprite parameter." alt="" coords="5,5,105,31"/>
+<area shape="rect" id="Node000002" href="$group___sprite.html#gabfa3f5e07cf276e0fd70cc89597d5d5f" title="Creates a sprite (with position, dimension and a map) from a xpm and a position." alt="" coords="153,5,251,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,15,137,15,137,21,106,21"/>
+</map>

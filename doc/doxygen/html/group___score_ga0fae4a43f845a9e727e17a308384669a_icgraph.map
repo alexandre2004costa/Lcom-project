@@ -1,0 +1,23 @@
+<map id="update_score" name="update_score">
+<area shape="rect" id="Node000001" title="Increments finalScore by s." alt="" coords="931,79,1031,104"/>
+<area shape="rect" id="Node000002" href="$group___bomb.html#ga85458b960f8eff3fc8e0007b9f734195" title="Removes Bombs Object from array of Bombs." alt="" coords="634,53,731,79"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="915,88,732,73,732,67,915,83"/>
+<area shape="rect" id="Node000008" href="$group___plane.html#gaf2c07c7d3a9e60095d4591c3deb35b85" title="Removes a Plane from the Planes array." alt="" coords="787,104,883,129"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="915,105,883,111,883,106,915,100"/>
+<area shape="rect" id="Node000003" href="$group___bomb.html#ga6b79805d150252275de040426397eae8" title="Checks colision between player and a bomb and changes the bomb sprite when it hits the ground." alt="" coords="461,5,575,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="622,51,563,34,565,29,623,46"/>
+<area shape="rect" id="Node000007" href="$group___bomb.html#ga14a26722863d4bc1b5cb59288c25da83" title="Checks colision between any bullet and any Plane Object, and handles plane crashing animations." alt="" coords="462,55,574,80"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="619,69,574,70,574,64,619,64"/>
+<area shape="rect" id="Node000004" href="$group__model.html#gae90942ace73fc6415036553af5809ac7" title="Handles objects movement depending on the game state." alt="" coords="321,55,409,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="463,38,408,57,406,52,461,33"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,55,273,80"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,70,274,70,274,65,306,65"/>
+<area shape="rect" id="Node000006" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,55,115,80"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,70,115,70,115,65,147,65"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="447,70,410,70,410,65,447,65"/>
+<area shape="rect" id="Node000009" href="$group___plane.html#ga13e1ce95f4947025172a05a5b89b09e7" title="Checks whether a plane is within bounds and sets speed." alt="" coords="627,104,739,129"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="771,119,739,119,739,114,771,114"/>
+<area shape="rect" id="Node000010" href="$group___plane.html#ga620a4b8b252e2965038f506a13d691cb" title="Checks plane movement for all Planes." alt="" coords="457,104,579,129"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="611,119,579,119,579,114,611,114"/>
+<area shape="poly" id="edge11_Node000010_Node000004" title=" " alt="" coords="461,101,406,83,408,78,463,96"/>
+</map>

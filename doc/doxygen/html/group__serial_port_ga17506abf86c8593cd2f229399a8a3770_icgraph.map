@@ -1,0 +1,42 @@
+<map id="serialRead" name="serialRead">
+<area shape="rect" id="Node000001" title="Reads the content in the address and puts it in the command." alt="" coords="949,157,1032,183"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#ga427b4e09d63feab5704aea9c2b120652" title="Checks if there is data available to read from the serial port." alt="" coords="800,5,891,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="972,145,941,99,900,52,873,33,876,29,903,48,946,96,977,142"/>
+<area shape="rect" id="Node000003" href="$group__serial_port.html#gad9878c6f354287fd77a9a1763a4865df" title="Reads a byte from the serial port if data is available and adds it to the receive queue." alt="" coords="661,56,735,81"/>
+<area shape="poly" id="edge21_Node000001_Node000003" title=" " alt="" coords="965,148,935,124,900,103,858,88,813,79,736,72,736,66,814,74,859,83,902,98,938,120,968,144"/>
+<area shape="rect" id="Node000004" href="$group__serial_port.html#gae0fe040b0f68ce53058ee5d71e8c839a" title="Interrupt handler for serial port." alt="" coords="513,80,584,105"/>
+<area shape="poly" id="edge22_Node000001_Node000004" title=" " alt="" coords="934,157,901,149,723,118,584,99,585,94,724,112,902,143,935,151"/>
+<area shape="rect" id="Node000007" href="$group__serial_port.html#ga0c0a41de9508849bd28f81c5ebb2a5a5" title="Checks if the serial port is ready to write." alt="" coords="800,157,891,183"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="933,173,891,173,891,167,933,167"/>
+<area shape="rect" id="Node000011" href="$group__serial_port.html#ga6e430192c0b471ff49d8b5a9a24365a5" title="Configures the UART bitrate." alt="" coords="789,207,901,232"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="938,191,886,209,884,204,936,186"/>
+<area shape="rect" id="Node000015" href="$group__serial_port.html#ga36ec510ca0b9e6b05494558dbb9bc737" title="Enables FIFOs for both receiver and transmitter and clears them." alt="" coords="801,256,889,281"/>
+<area shape="poly" id="edge19_Node000001_Node000015" title=" " alt="" coords="967,195,938,222,903,247,882,258,880,253,900,242,934,217,964,191"/>
+<area shape="rect" id="Node000016" href="$group__serial_port.html#gaf62fb2118415b60e379d573140194677" title="Sets the parameters for the UART such as number of bits per character and parity control." alt="" coords="792,305,899,331"/>
+<area shape="poly" id="edge23_Node000001_Node000016" title=" " alt="" coords="978,198,948,247,927,273,903,296,886,307,883,303,900,292,923,269,943,244,974,195"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="792,39,736,58,735,53,791,34"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="646,80,585,90,584,84,645,74"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="165,181,275,207"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="498,96,416,105,370,114,326,127,276,154,238,183,235,179,274,149,324,122,369,108,415,99,497,91"/>
+<area shape="rect" id="Node000006" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,232,115,257"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="164,214,103,234,102,229,162,209"/>
+<area shape="rect" id="Node000008" href="$group__serial_port.html#ga80f7d8188f4fae588b084a0d3e0903c5" title="Sends a byte from the transmit queue if it is not empty and the serial port is ready to write." alt="" coords="659,157,737,183"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="784,173,737,173,737,167,784,167"/>
+<area shape="poly" id="edge12_Node000008_Node000004" title=" " alt="" coords="657,152,574,108,576,103,660,148"/>
+<area shape="poly" id="edge13_Node000008_Node000005" title=" " alt="" coords="644,170,500,169,413,171,326,178,276,185,275,180,325,173,412,166,500,164,644,165"/>
+<area shape="rect" id="Node000009" href="$group__model.html#ga615cbd03432a5100300013ef5183eac4" title="Creates actions for the left mouse button clicking depending on the game state." alt="" coords="495,181,602,207"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="645,181,603,188,602,183,644,176"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="480,197,276,197,276,191,480,191"/>
+<area shape="rect" id="Node000010" href="$group__model.html#gabcfbfb281c513ee546d8987b387614d7" title="Manage the bytes sended from the other player." alt="" coords="325,232,443,257"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="491,214,428,234,427,229,489,209"/>
+<area shape="poly" id="edge10_Node000010_Node000005" title=" " alt="" coords="325,229,263,210,264,205,327,224"/>
+<area shape="rect" id="Node000012" href="$group__serial_port.html#gadaa29fb414c7cf1b53b22b80019ac687" title="Initializes the serial port by setting up parameters, configuring the bitrate, and enabling FIFOs." alt="" coords="655,281,741,307"/>
+<area shape="poly" id="edge15_Node000011_Node000012" title=" " alt="" coords="802,242,791,247,724,283,721,278,788,242,799,237"/>
+<area shape="rect" id="Node000013" href="$group__serial_port.html#ga80f33121bfc0cd5225b380d2a90089f7" title="Subscribes to serial port interrupts and performs the initial setup." alt="" coords="491,283,607,308"/>
+<area shape="poly" id="edge16_Node000012_Node000013" title=" " alt="" coords="639,297,607,297,607,292,639,292"/>
+<area shape="rect" id="Node000014" href="$group__model.html#ga3860d7c9a485d25b8a14a1b04d992fe7" title="Enables all interrupts." alt="" coords="163,256,277,281"/>
+<area shape="poly" id="edge17_Node000013_Node000014" title=" " alt="" coords="475,292,278,276,278,271,475,287"/>
+<area shape="poly" id="edge18_Node000014_Node000006" title=" " alt="" coords="147,260,115,256,116,250,148,255"/>
+<area shape="poly" id="edge20_Node000015_Node000012" title=" " alt="" coords="787,281,742,289,741,284,786,276"/>
+<area shape="poly" id="edge24_Node000016_Node000012" title=" " alt="" coords="776,309,741,304,742,298,777,304"/>
+</map>

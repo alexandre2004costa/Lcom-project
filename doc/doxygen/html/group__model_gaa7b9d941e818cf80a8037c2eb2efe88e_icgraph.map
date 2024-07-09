@@ -1,0 +1,13 @@
+<map id="prepareGame" name="prepareGame">
+<area shape="rect" id="Node000001" title="Actions to prepare a gameplay." alt="" coords="641,31,741,56"/>
+<area shape="rect" id="Node000002" href="$group__model.html#ga615cbd03432a5100300013ef5183eac4" title="Creates actions for the left mouse button clicking depending on the game state." alt="" coords="487,56,593,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="627,57,594,62,594,57,626,52"/>
+<area shape="rect" id="Node000003" href="$group__model.html#gabcfbfb281c513ee546d8987b387614d7" title="Manage the bytes sended from the other player." alt="" coords="321,5,439,31"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="625,41,439,25,439,20,626,35"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="482,53,422,34,423,29,484,48"/>
+<area shape="rect" id="Node000004" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,31,273,56"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="471,66,274,50,274,45,471,61"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,32,274,37,273,32,305,27"/>
+<area shape="rect" id="Node000005" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,31,115,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,46,115,46,115,41,147,41"/>
+</map>

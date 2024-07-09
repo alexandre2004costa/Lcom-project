@@ -1,0 +1,24 @@
+<map id="read_KBC_status" name="read_KBC_status">
+<area shape="rect" id="Node000001" title="Reads the KBC status register." alt="" coords="677,131,801,156"/>
+<area shape="rect" id="Node000002" href="$group__keyboard.html#gaca842ab89e3fc03d8cca103dd6808895" title="Keyboard interrupt handler. Reads the status register and the output buffer." alt="" coords="526,56,586,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="691,127,585,83,588,78,693,122"/>
+<area shape="rect" id="Node000006" href="$group__kbc.html#ga41f2c6dbc1a38c60212be5c0b631607c" title="Reads the KBC output buffer." alt="" coords="494,131,618,156"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="661,146,618,146,618,141,661,141"/>
+<area shape="rect" id="Node000010" href="$group__kbc.html#ga34b653b3939fffe883c903cdadb36d3a" title="Writes a command byte to the KBC." alt="" coords="483,180,629,205"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="676,163,607,182,605,177,674,158"/>
+<area shape="rect" id="Node000003" href="$group__keyboard.html#ga65e41a16e029b1b743372753e8e9d8d3" title="Waits for the ESC key to be pressed, keyboard interrupt handler." alt="" coords="335,5,421,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="510,59,421,33,422,28,512,53"/>
+<area shape="rect" id="Node000004" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,81,273,107"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="511,75,274,93,274,87,510,69"/>
+<area shape="rect" id="Node000005" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,81,115,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,97,115,97,115,91,147,91"/>
+<area shape="rect" id="Node000007" href="$group__keyboard.html#ga755ae62f44aba9859676bfd9a6ebef4a" title="Enables keyboard interrupts." alt="" coords="325,205,431,231"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="500,164,484,171,436,196,412,207,410,202,433,192,482,166,498,159"/>
+<area shape="rect" id="Node000008" href="$group__mouse.html#ga210374b50462acdedab00df64d5cea3c" title="Mouse interrupt handler. Reads the mouse scancode from the output buffer." alt="" coords="339,107,417,132"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="478,136,418,127,418,122,479,130"/>
+<area shape="rect" id="Node000009" href="$group__mouse.html#ga372f8f78cdc5ae165035f1e7e77e5eed" title="Writes a command byte to the mouse." alt="" coords="321,156,435,181"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="479,157,435,163,435,158,478,152"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="323,113,273,105,274,100,324,108"/>
+<area shape="poly" id="edge11_Node000010_Node000007" title=" " alt="" coords="468,208,432,213,431,208,467,203"/>
+<area shape="poly" id="edge12_Node000010_Node000009" title=" " alt="" coords="467,183,435,179,435,174,468,178"/>
+</map>

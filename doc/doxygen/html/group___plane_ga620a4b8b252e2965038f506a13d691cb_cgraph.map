@@ -1,0 +1,9 @@
+<map id="PlanesMovement" name="PlanesMovement">
+<area shape="rect" id="Node000001" title="Checks plane movement for all Planes." alt="" coords="5,5,127,31"/>
+<area shape="rect" id="Node000002" href="$group___plane.html#ga13e1ce95f4947025172a05a5b89b09e7" title="Checks whether a plane is within bounds and sets speed." alt="" coords="175,5,287,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,15,159,15,159,21,127,21"/>
+<area shape="rect" id="Node000003" href="$group___plane.html#gaf2c07c7d3a9e60095d4591c3deb35b85" title="Removes a Plane from the Planes array." alt="" coords="335,5,431,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,15,319,15,319,21,287,21"/>
+<area shape="rect" id="Node000004" href="$group___score.html#ga0fae4a43f845a9e727e17a308384669a" title="Increments finalScore by s." alt="" coords="479,5,579,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="431,15,463,15,463,21,431,21"/>
+</map>

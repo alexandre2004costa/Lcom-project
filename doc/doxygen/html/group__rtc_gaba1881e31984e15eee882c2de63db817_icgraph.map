@@ -1,0 +1,9 @@
+<map id="update_time" name="update_time">
+<area shape="rect" id="Node000001" title="Updates the real_time variable with the current time." alt="" coords="457,5,551,31"/>
+<area shape="rect" id="Node000002" href="$group__model.html#gae90942ace73fc6415036553af5809ac7" title="Handles objects movement depending on the game state." alt="" coords="321,5,409,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="442,21,410,21,410,15,442,15"/>
+<area shape="rect" id="Node000003" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,5,273,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="306,21,274,21,274,15,306,15"/>
+<area shape="rect" id="Node000004" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,5,115,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="147,21,115,21,115,15,147,15"/>
+</map>

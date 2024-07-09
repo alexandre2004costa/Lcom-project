@@ -1,0 +1,9 @@
+<map id="bombMovement" name="bombMovement">
+<area shape="rect" id="Node000001" title="Checks colision between player and a bomb and changes the bomb sprite when it hits the ground." alt="" coords="5,31,119,56"/>
+<area shape="rect" id="Node000002" href="$group___sprite.html#ga8c1b8e32a4abe501a92c4034a29f1113" title="In case you need to change the xpm (appearance) of a certain sprite." alt="" coords="167,5,265,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,31,151,26,152,31,120,37"/>
+<area shape="rect" id="Node000003" href="$group___bomb.html#ga85458b960f8eff3fc8e0007b9f734195" title="Removes Bombs Object from array of Bombs." alt="" coords="167,55,265,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="120,50,152,55,152,60,119,55"/>
+<area shape="rect" id="Node000004" href="$group___score.html#ga0fae4a43f845a9e727e17a308384669a" title="Increments finalScore by s." alt="" coords="313,55,413,80"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="265,65,298,65,298,70,265,70"/>
+</map>

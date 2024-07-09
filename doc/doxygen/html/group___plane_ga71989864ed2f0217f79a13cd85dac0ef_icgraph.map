@@ -1,0 +1,18 @@
+<map id="freePlanes" name="freePlanes">
+<area shape="rect" id="Node000001" title="Frees up memory used by planes." alt="" coords="789,31,872,56"/>
+<area shape="rect" id="Node000002" href="$group__model.html#gabc87c7b8fe814ba599cd1bf85a85b035" title="Disables all interrupts and free the buffers." alt="" coords="495,5,585,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="773,41,585,25,586,19,774,36"/>
+<area shape="rect" id="Node000004" href="$group__model.html#gaa7b9d941e818cf80a8037c2eb2efe88e" title="Actions to prepare a gameplay." alt="" coords="641,56,741,81"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="774,56,742,62,741,57,773,51"/>
+<area shape="rect" id="Node000003" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,31,115,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="480,24,115,43,115,38,479,18"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga615cbd03432a5100300013ef5183eac4" title="Creates actions for the left mouse button clicking depending on the game state." alt="" coords="487,107,593,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="637,89,581,109,579,104,636,84"/>
+<area shape="rect" id="Node000006" href="$group__model.html#gabcfbfb281c513ee546d8987b387614d7" title="Manage the bytes sended from the other player." alt="" coords="321,56,439,81"/>
+<area shape="poly" id="edge9_Node000004_Node000006" title=" " alt="" coords="626,71,439,71,439,66,626,66"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="482,104,422,84,423,79,484,99"/>
+<area shape="rect" id="Node000007" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,56,273,81"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="471,116,321,97,267,85,268,79,322,91,471,111"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="305,71,274,71,274,66,305,66"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="147,60,114,55,115,49,148,55"/>
+</map>

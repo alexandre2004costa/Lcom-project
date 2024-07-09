@@ -1,0 +1,16 @@
+<map id="drawScoreGameOver" name="drawScoreGameOver">
+<area shape="rect" id="Node000001" title="Draws the score when the game is over." alt="" coords="5,31,149,56"/>
+<area shape="rect" id="Node000002" href="$group___score.html#ga5f3782cac38d5b54eb3e6a4b335520fd" title="Draws the desired number in the desired position using drawDigit." alt="" coords="197,5,292,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,30,182,25,183,30,150,35"/>
+<area shape="rect" id="Node000006" href="$group___score.html#ga0dccd5722dbee7528c326a72a6394da0" title="Draws the desired letter in the desired position using drawLetter." alt="" coords="203,55,286,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="150,51,188,57,188,62,150,56"/>
+<area shape="rect" id="Node000003" href="$group___score.html#gae41853c968aa8d2a6e5cadd43d4764e8" title="Draws the desired digit in the desired position." alt="" coords="344,5,419,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="292,15,329,15,329,21,292,21"/>
+<area shape="rect" id="Node000004" href="$group___sprite.html#gab920cea990dd26eae2ce9b44280ecd9f" title="In a xpm map where there are multiple images for individual sprites, this function retrieves only the..." alt="" coords="471,31,599,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="420,22,456,28,455,33,419,27"/>
+<area shape="rect" id="Node000005" href="$group__graphic.html#gad1947e779c7e35bbb53b70479c173887" title="Sets a pixel color at given coordinates." alt="" coords="647,31,731,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="599,41,631,41,631,46,599,46"/>
+<area shape="rect" id="Node000007" href="$group___score.html#ga6f17ce0d0065dcbb34ec7564b238f8e1" title="Draws the desired letter in the desired position." alt="" coords="340,55,423,80"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="287,65,324,65,324,70,287,70"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="423,58,455,53,455,58,423,64"/>
+</map>

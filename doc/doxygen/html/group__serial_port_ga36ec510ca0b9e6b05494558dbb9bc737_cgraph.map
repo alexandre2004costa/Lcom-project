@@ -1,0 +1,9 @@
+<map id="enableFifos" name="enableFifos">
+<area shape="rect" id="Node000001" title="Enables FIFOs for both receiver and transmitter and clears them." alt="" coords="5,31,93,56"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#ga17506abf86c8593cd2f229399a8a3770" title="Reads the content in the address and puts it in the command." alt="" coords="142,5,225,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,32,126,26,127,31,94,38"/>
+<area shape="rect" id="Node000004" href="$group__serial_port.html#ga09b8737f83e735eafa4f875339c0187c" title="Writes the command to the specified address." alt="" coords="141,55,225,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="94,49,126,54,125,60,93,54"/>
+<area shape="rect" id="Node000003" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="273,5,364,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="225,15,258,15,258,21,225,21"/>
+</map>

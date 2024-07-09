@@ -1,0 +1,41 @@
+<map id="leftMouseClick" name="leftMouseClick">
+<area shape="rect" id="Node000001" title="Creates actions for the left mouse button clicking depending on the game state." alt="" coords="5,155,112,180"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#gae5d951ec2fba9de0a2c513f4d362953e" title="Adds a byte to the transmit queue if it is not full." alt="" coords="167,56,253,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="74,152,112,123,159,90,165,86,168,91,161,95,115,127,77,156"/>
+<area shape="rect" id="Node000005" href="$group___sprite.html#ga8c1b8e32a4abe501a92c4034a29f1113" title="In case you need to change the xpm (appearance) of a certain sprite." alt="" coords="161,105,259,131"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="99,152,154,133,155,138,101,157"/>
+<area shape="rect" id="Node000006" href="$group___bomb.html#gade10140bd209c6f9212a8b603f23eae6" title="Creates a bomb/bullet Object with vertical speed." alt="" coords="164,155,256,180"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="112,165,148,165,148,170,112,170"/>
+<area shape="rect" id="Node000009" href="$group__model.html#gaa7b9d941e818cf80a8037c2eb2efe88e" title="Actions to prepare a gameplay." alt="" coords="160,205,260,231"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="100,178,156,197,155,202,98,183"/>
+<area shape="rect" id="Node000013" href="$group__serial_port.html#ga80f7d8188f4fae588b084a0d3e0903c5" title="Sends a byte from the transmit queue if it is not empty and the serial port is ready to write." alt="" coords="171,353,249,379"/>
+<area shape="poly" id="edge13_Node000001_Node000013" title=" " alt="" coords="72,179,192,339,188,343,68,182"/>
+<area shape="rect" id="Node000003" href="$group__queue.html#ga72dfca33b235a9b81f1711408931c162" title="Adds an item to the queue." alt="" coords="341,5,411,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="253,53,325,31,327,36,255,58"/>
+<area shape="rect" id="Node000004" href="$group__queue.html#ga3945764c3969a2e2981156a40b9c7478" title="Checks if the queue is full." alt="" coords="514,31,567,56"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="254,63,498,44,499,49,254,68"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="412,21,499,34,498,40,411,26"/>
+<area shape="rect" id="Node000007" href="$group___object.html#ga5bf3d7a34b95a9af8390c898658fd6ad" title="Creates an object with no speed. Uses sprite creation for the sprite parameter." alt="" coords="326,107,426,132"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="256,152,315,134,316,139,257,157"/>
+<area shape="rect" id="Node000008" href="$group___sprite.html#gabfa3f5e07cf276e0fd70cc89597d5d5f" title="Creates a sprite (with position, dimension and a map) from a xpm and a position." alt="" coords="492,107,589,132"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="426,117,477,117,477,122,426,122"/>
+<area shape="rect" id="Node000010" href="$group___bomb.html#ga771ab4a4caae2f51dfe3f3848aa7dbad" title="Creates an array of bombs Objects." alt="" coords="309,156,443,181"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="254,202,316,184,317,189,256,207"/>
+<area shape="rect" id="Node000011" href="$group___plane.html#ga495f6a2c3c5328ecc45d5b22f17ca538" title="Creates an array of Planes Objects." alt="" coords="308,205,444,231"/>
+<area shape="poly" id="edge11_Node000009_Node000011" title=" " alt="" coords="260,215,292,215,292,221,260,221"/>
+<area shape="rect" id="Node000012" href="$group___plane.html#ga71989864ed2f0217f79a13cd85dac0ef" title="Frees up memory used by planes." alt="" coords="335,255,417,280"/>
+<area shape="poly" id="edge12_Node000009_Node000012" title=" " alt="" coords="256,229,321,248,319,253,254,234"/>
+<area shape="rect" id="Node000014" href="$group__serial_port.html#ga0c0a41de9508849bd28f81c5ebb2a5a5" title="Checks if the serial port is ready to write." alt="" coords="331,304,421,329"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="248,352,316,332,317,337,250,357"/>
+<area shape="rect" id="Node000017" href="$group__queue.html#ga0c1e6cc26ccdca2f859bc20c470869f9" title="Removes an item from the queue." alt="" coords="341,353,411,379"/>
+<area shape="poly" id="edge17_Node000013_Node000017" title=" " alt="" coords="249,363,325,363,325,369,249,369"/>
+<area shape="rect" id="Node000018" href="$group__queue.html#gae2701ab012e9ff60a04d6ffd07a42e1b" title="Checks if the queue is empty." alt="" coords="505,379,576,404"/>
+<area shape="poly" id="edge19_Node000013_Node000018" title=" " alt="" coords="250,375,308,387,405,393,490,392,490,397,405,399,308,393,248,380"/>
+<area shape="rect" id="Node000019" href="$group__serial_port.html#ga09b8737f83e735eafa4f875339c0187c" title="Writes the command to the specified address." alt="" coords="334,455,418,480"/>
+<area shape="poly" id="edge20_Node000013_Node000019" title=" " alt="" coords="229,377,309,433,332,445,329,450,307,438,226,381"/>
+<area shape="rect" id="Node000015" href="$group__serial_port.html#ga17506abf86c8593cd2f229399a8a3770" title="Reads the content in the address and puts it in the command." alt="" coords="499,304,582,329"/>
+<area shape="poly" id="edge15_Node000014_Node000015" title=" " alt="" coords="422,314,484,314,484,319,422,319"/>
+<area shape="rect" id="Node000016" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="637,304,728,329"/>
+<area shape="poly" id="edge16_Node000015_Node000016" title=" " alt="" coords="582,314,622,314,622,319,582,319"/>
+<area shape="poly" id="edge18_Node000017_Node000018" title=" " alt="" coords="412,369,490,381,490,386,411,374"/>
+</map>

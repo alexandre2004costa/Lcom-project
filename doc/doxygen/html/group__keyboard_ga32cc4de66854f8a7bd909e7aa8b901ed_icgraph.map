@@ -1,0 +1,9 @@
+<map id="keyboard_unsubscribe_int" name="keyboard_unsubscribe_int">
+<area shape="rect" id="Node000001" title="Unsubscribes keyboard interrupts." alt="" coords="301,31,475,56"/>
+<area shape="rect" id="Node000002" href="$group__model.html#gabc87c7b8fe814ba599cd1bf85a85b035" title="Disables all interrupts and free the buffers." alt="" coords="163,5,253,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="286,32,253,27,254,22,286,26"/>
+<area shape="rect" id="Node000004" href="$group__keyboard.html#ga65e41a16e029b1b743372753e8e9d8d3" title="Waits for the ESC key to be pressed, keyboard interrupt handler." alt="" coords="165,55,251,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="287,60,252,64,251,59,286,54"/>
+<area shape="rect" id="Node000003" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,5,115,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,21,115,21,115,15,147,15"/>
+</map>

@@ -1,0 +1,18 @@
+<map id="ableToWrite" name="ableToWrite">
+<area shape="rect" id="Node000001" title="Checks if the serial port is ready to write." alt="" coords="767,107,857,132"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#ga80f7d8188f4fae588b084a0d3e0903c5" title="Sends a byte from the transmit queue if it is not empty and the serial port is ready to write." alt="" coords="641,107,719,132"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="751,122,719,122,719,117,751,117"/>
+<area shape="rect" id="Node000003" href="$group__model.html#ga615cbd03432a5100300013ef5183eac4" title="Creates actions for the left mouse button clicking depending on the game state." alt="" coords="487,56,593,81"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="627,103,576,84,578,79,629,98"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,81,273,107"/>
+<area shape="poly" id="edge9_Node000002_Node000005" title=" " alt="" coords="626,119,274,100,274,94,626,114"/>
+<area shape="rect" id="Node000007" href="$group__serial_port.html#gae0fe040b0f68ce53058ee5d71e8c839a" title="Interrupt handler for serial port." alt="" coords="345,157,415,183"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="627,134,594,141,416,168,416,163,593,135,626,129"/>
+<area shape="rect" id="Node000004" href="$group__model.html#gabcfbfb281c513ee546d8987b387614d7" title="Manage the bytes sended from the other player." alt="" coords="321,5,439,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="482,53,422,34,423,29,484,48"/>
+<area shape="poly" id="edge6_Node000003_Node000005" title=" " alt="" coords="471,77,274,92,274,87,471,71"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="338,40,248,83,246,79,336,35"/>
+<area shape="rect" id="Node000006" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,81,115,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,97,115,97,115,91,147,91"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="336,153,246,109,248,105,338,148"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="write_KBC_command" name="write_KBC_command">
+<area shape="rect" id="Node000001" title="Writes a command byte to the KBC." alt="" coords="5,5,152,31"/>
+<area shape="rect" id="Node000002" href="$group__kbc.html#gac024af91b156e4fc61ee3886b891de21" title="Reads the KBC status register." alt="" coords="200,5,324,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,15,185,15,185,21,152,21"/>
+<area shape="rect" id="Node000003" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="372,5,463,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="325,15,357,15,357,21,325,21"/>
+</map>

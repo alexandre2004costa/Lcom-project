@@ -1,0 +1,15 @@
+<map id="devices/queue.h" name="devices/queue.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="80,5,195,31"/>
+<area shape="rect" id="Node000002" href="$queue_8c.html" title=" " alt="" coords="5,79,120,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,44,77,80,73,76,112,40"/>
+<area shape="rect" id="Node000003" href="$serial_port_8h.html" title=" " alt="" coords="145,79,279,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="163,40,201,76,198,80,159,44"/>
+<area shape="rect" id="Node000004" href="$serial_port_8c.html" title=" " alt="" coords="82,152,217,177"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="194,117,162,153,158,150,190,114"/>
+<area shape="rect" id="Node000005" href="$model_8h.html" title=" " alt="" coords="241,152,309,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="234,114,266,150,262,153,230,117"/>
+<area shape="rect" id="Node000006" href="$model_8c.html" title=" " alt="" coords="198,225,266,251"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="262,192,241,226,237,223,258,189"/>
+<area shape="rect" id="Node000007" href="$proj_8c.html" title=" " alt="" coords="290,225,345,251"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="292,189,312,223,308,226,287,192"/>
+</map>

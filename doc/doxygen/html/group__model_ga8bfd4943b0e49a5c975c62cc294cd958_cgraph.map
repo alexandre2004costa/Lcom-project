@@ -1,0 +1,12 @@
+<map id="sendScancode" name="sendScancode">
+<area shape="rect" id="Node000001" title="Sends a scancode by converting it to a character and adding it to the send queue." alt="" coords="5,56,113,81"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#gae5d951ec2fba9de0a2c513f4d362953e" title="Adds a byte to the transmit queue if it is not full." alt="" coords="199,31,286,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,59,183,49,184,54,114,64"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga2968ddb2e4c4c45f39feff6303227c3c" title="Converts a scancode to its corresponding character representation." alt="" coords="161,80,324,105"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="114,73,146,77,145,83,114,78"/>
+<area shape="rect" id="Node000003" href="$group__queue.html#ga72dfca33b235a9b81f1711408931c162" title="Adds an item to the queue." alt="" coords="372,5,443,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="286,34,356,23,357,28,287,39"/>
+<area shape="rect" id="Node000004" href="$group__queue.html#ga3945764c3969a2e2981156a40b9c7478" title="Checks if the queue is full." alt="" coords="491,31,544,56"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="287,41,475,41,475,46,287,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="444,24,476,31,475,36,443,29"/>
+</map>

@@ -1,0 +1,29 @@
+<map id="serial_ih" name="serial_ih">
+<area shape="rect" id="Node000001" title="Interrupt handler for serial port." alt="" coords="5,157,76,183"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#gad9878c6f354287fd77a9a1763a4865df" title="Reads a byte from the serial port if data is available and adds it to the receive queue." alt="" coords="125,81,200,107"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="61,155,127,113,129,118,64,159"/>
+<area shape="rect" id="Node000004" href="$group__serial_port.html#ga17506abf86c8593cd2f229399a8a3770" title="Reads the content in the address and puts it in the command." alt="" coords="388,132,471,157"/>
+<area shape="poly" id="edge15_Node000001_Node000004" title=" " alt="" coords="76,165,372,146,373,151,77,170"/>
+<area shape="rect" id="Node000008" href="$group__serial_port.html#ga80f7d8188f4fae588b084a0d3e0903c5" title="Sends a byte from the transmit queue if it is not empty and the serial port is ready to write." alt="" coords="124,257,201,283"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="59,181,136,245,133,249,56,185"/>
+<area shape="rect" id="Node000003" href="$group__serial_port.html#ga427b4e09d63feab5704aea9c2b120652" title="Checks if there is data available to read from the serial port." alt="" coords="249,107,340,132"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,99,235,105,234,110,200,104"/>
+<area shape="poly" id="edge7_Node000002_Node000004" title=" " alt="" coords="200,86,266,82,304,85,341,91,373,104,401,121,398,125,370,109,339,97,303,90,266,88,201,91"/>
+<area shape="rect" id="Node000006" href="$group__queue.html#ga72dfca33b235a9b81f1711408931c162" title="Adds an item to the queue." alt="" coords="259,5,330,31"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="185,78,257,36,260,41,188,83"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="341,125,373,131,372,137,340,130"/>
+<area shape="rect" id="Node000005" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="519,132,609,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="471,142,503,142,503,147,471,147"/>
+<area shape="rect" id="Node000007" href="$group__queue.html#ga3945764c3969a2e2981156a40b9c7478" title="Checks if the queue is full." alt="" coords="403,5,456,31"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="330,15,387,15,387,21,330,21"/>
+<area shape="rect" id="Node000009" href="$group__serial_port.html#ga0c0a41de9508849bd28f81c5ebb2a5a5" title="Checks if the serial port is ready to write." alt="" coords="249,208,340,233"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="198,254,244,237,245,242,200,259"/>
+<area shape="rect" id="Node000010" href="$group__queue.html#ga0c1e6cc26ccdca2f859bc20c470869f9" title="Removes an item from the queue." alt="" coords="259,257,330,283"/>
+<area shape="poly" id="edge11_Node000008_Node000010" title=" " alt="" coords="202,267,244,267,244,273,202,273"/>
+<area shape="rect" id="Node000011" href="$group__queue.html#gae2701ab012e9ff60a04d6ffd07a42e1b" title="Checks if the queue is empty." alt="" coords="394,283,465,308"/>
+<area shape="poly" id="edge13_Node000008_Node000011" title=" " alt="" coords="201,281,250,293,317,298,378,296,379,302,317,303,249,298,199,286"/>
+<area shape="rect" id="Node000012" href="$group__serial_port.html#ga09b8737f83e735eafa4f875339c0187c" title="Writes the command to the specified address." alt="" coords="253,359,337,384"/>
+<area shape="poly" id="edge14_Node000008_Node000012" title=" " alt="" coords="181,281,251,337,264,347,261,351,248,341,178,285"/>
+<area shape="poly" id="edge10_Node000009_Node000004" title=" " alt="" coords="318,205,391,163,394,167,320,210"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="331,274,379,283,378,288,330,279"/>
+</map>

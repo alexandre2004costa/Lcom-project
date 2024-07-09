@@ -1,0 +1,7 @@
+<map id="loadScoreSprites" name="loadScoreSprites">
+<area shape="rect" id="Node000001" title="Creates a sprite for each xpm." alt="" coords="297,5,419,31"/>
+<area shape="rect" id="Node000002" href="$group__model.html#gad4c13dd9271c5262593c76bedb82fdc0" title="Creates objects for moving elements and sprites for non moving ones." alt="" coords="163,5,249,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="281,21,250,21,250,15,281,15"/>
+<area shape="rect" id="Node000003" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,5,115,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,21,115,21,115,15,147,15"/>
+</map>

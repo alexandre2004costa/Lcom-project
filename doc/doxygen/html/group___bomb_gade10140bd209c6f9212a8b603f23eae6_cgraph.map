@@ -1,0 +1,7 @@
+<map id="createBomb" name="createBomb">
+<area shape="rect" id="Node000001" title="Creates a bomb/bullet Object with vertical speed." alt="" coords="5,5,97,31"/>
+<area shape="rect" id="Node000002" href="$group___object.html#ga5bf3d7a34b95a9af8390c898658fd6ad" title="Creates an object with no speed. Uses sprite creation for the sprite parameter." alt="" coords="145,5,245,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="98,15,130,15,130,21,98,21"/>
+<area shape="rect" id="Node000003" href="$group___sprite.html#gabfa3f5e07cf276e0fd70cc89597d5d5f" title="Creates a sprite (with position, dimension and a map) from a xpm and a position." alt="" coords="293,5,391,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="246,15,277,15,277,21,246,21"/>
+</map>

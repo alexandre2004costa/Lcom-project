@@ -1,0 +1,8 @@
+<map id="kbd_ih" name="kbd_ih">
+<area shape="rect" id="Node000001" title="Keyboard interrupt handler. Reads the status register and the output buffer." alt="" coords="5,31,65,56"/>
+<area shape="rect" id="Node000002" href="$group__kbc.html#gac024af91b156e4fc61ee3886b891de21" title="Reads the KBC status register." alt="" coords="113,5,237,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="65,35,97,29,98,35,66,41"/>
+<area shape="rect" id="Node000003" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="285,31,376,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="66,41,270,41,270,46,66,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,26,270,31,270,36,237,31"/>
+</map>

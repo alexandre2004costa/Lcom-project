@@ -1,0 +1,21 @@
+<map id="drawScoreGameScore" name="drawScoreGameScore">
+<area shape="rect" id="Node000001" title="Draws the score and date of all game results." alt="" coords="5,50,157,75"/>
+<area shape="rect" id="Node000002" href="$group___score.html#ga75b2737223299b7422daa837494a85a4" title="Draws the score and date of a certain game result." alt="" coords="231,24,307,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,49,215,42,216,47,158,55"/>
+<area shape="rect" id="Node000009" href="$group___score.html#ga9a8f8f1e2b798ab6fe9b9eca01e40d6e" title="Reads each game results line by line." alt="" coords="205,74,332,99"/>
+<area shape="poly" id="edge10_Node000001_Node000009" title=" " alt="" coords="158,70,190,74,189,79,157,75"/>
+<area shape="rect" id="Node000003" href="$group___score.html#gae41853c968aa8d2a6e5cadd43d4764e8" title="Draws the desired digit in the desired position." alt="" coords="576,23,651,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="307,24,380,9,454,3,528,9,562,16,560,21,528,14,454,8,380,14,308,29"/>
+<area shape="rect" id="Node000006" href="$group___score.html#ga5f3782cac38d5b54eb3e6a4b335520fd" title="Draws the desired number in the desired position using drawDigit." alt="" coords="407,24,501,50"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="307,34,391,34,391,40,307,40"/>
+<area shape="rect" id="Node000007" href="$group___score.html#ga3dc34522884bc6aa11850a9db06cef82" title="Draws a special character in the desired position." alt="" coords="380,74,528,99"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="308,44,390,67,388,72,306,50"/>
+<area shape="rect" id="Node000004" href="$group___sprite.html#gab920cea990dd26eae2ce9b44280ecd9f" title="In a xpm map where there are multiple images for individual sprites, this function retrieves only the..." alt="" coords="699,24,827,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="651,33,683,34,683,39,651,39"/>
+<area shape="rect" id="Node000005" href="$group__graphic.html#gad1947e779c7e35bbb53b70479c173887" title="Sets a pixel color at given coordinates." alt="" coords="875,50,959,75"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="828,45,860,50,859,56,827,50"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="502,34,561,34,561,39,502,39"/>
+<area shape="rect" id="Node000008" href="$group___sprite.html#ga05f5bc841453309732e52e639db61ba3" title="Draws a sprite using video graphics coloring." alt="" coords="721,74,804,99"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="529,84,706,84,706,89,529,89"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="804,77,859,69,860,74,805,83"/>
+</map>

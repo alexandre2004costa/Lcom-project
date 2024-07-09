@@ -1,0 +1,9 @@
+<map id="drawNumber" name="drawNumber">
+<area shape="rect" id="Node000001" title="Draws the desired number in the desired position using drawDigit." alt="" coords="5,5,100,31"/>
+<area shape="rect" id="Node000002" href="$group___score.html#gae41853c968aa8d2a6e5cadd43d4764e8" title="Draws the desired digit in the desired position." alt="" coords="148,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,15,132,15,132,21,101,21"/>
+<area shape="rect" id="Node000003" href="$group___sprite.html#gab920cea990dd26eae2ce9b44280ecd9f" title="In a xpm map where there are multiple images for individual sprites, this function retrieves only the..." alt="" coords="271,5,399,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="223,15,255,15,255,21,223,21"/>
+<area shape="rect" id="Node000004" href="$group__graphic.html#gad1947e779c7e35bbb53b70479c173887" title="Sets a pixel color at given coordinates." alt="" coords="447,5,531,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="399,15,431,15,431,21,399,21"/>
+</map>

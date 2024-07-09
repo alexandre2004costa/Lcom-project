@@ -1,0 +1,9 @@
+<map id="drawString" name="drawString">
+<area shape="rect" id="Node000001" title="Draws the desired letter in the desired position using drawLetter." alt="" coords="5,5,88,31"/>
+<area shape="rect" id="Node000002" href="$group___score.html#ga6f17ce0d0065dcbb34ec7564b238f8e1" title="Draws the desired letter in the desired position." alt="" coords="136,5,219,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,15,120,15,120,21,89,21"/>
+<area shape="rect" id="Node000003" href="$group___sprite.html#gab920cea990dd26eae2ce9b44280ecd9f" title="In a xpm map where there are multiple images for individual sprites, this function retrieves only the..." alt="" coords="267,5,395,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,15,251,15,251,21,219,21"/>
+<area shape="rect" id="Node000004" href="$group__graphic.html#gad1947e779c7e35bbb53b70479c173887" title="Sets a pixel color at given coordinates." alt="" coords="443,5,527,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="395,15,427,15,427,21,395,21"/>
+</map>

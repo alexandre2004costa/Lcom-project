@@ -1,0 +1,5 @@
+<map id="loadScoreSprites" name="loadScoreSprites">
+<area shape="rect" id="Node000001" title="Creates a sprite for each xpm." alt="" coords="5,5,127,31"/>
+<area shape="rect" id="Node000002" href="$group___sprite.html#gabfa3f5e07cf276e0fd70cc89597d5d5f" title="Creates a sprite (with position, dimension and a map) from a xpm and a position." alt="" coords="175,5,272,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,15,159,15,159,21,127,21"/>
+</map>

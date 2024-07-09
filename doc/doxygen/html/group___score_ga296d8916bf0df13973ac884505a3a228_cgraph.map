@@ -1,0 +1,11 @@
+<map id="drawScoreGamePlay" name="drawScoreGamePlay">
+<area shape="rect" id="Node000001" title="Draws the score number during game play." alt="" coords="5,5,149,31"/>
+<area shape="rect" id="Node000002" href="$group___score.html#ga5f3782cac38d5b54eb3e6a4b335520fd" title="Draws the desired number in the desired position using drawDigit." alt="" coords="197,5,292,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,15,182,15,182,21,150,21"/>
+<area shape="rect" id="Node000003" href="$group___score.html#gae41853c968aa8d2a6e5cadd43d4764e8" title="Draws the desired digit in the desired position." alt="" coords="340,5,415,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="293,15,324,15,324,21,293,21"/>
+<area shape="rect" id="Node000004" href="$group___sprite.html#gab920cea990dd26eae2ce9b44280ecd9f" title="In a xpm map where there are multiple images for individual sprites, this function retrieves only the..." alt="" coords="463,5,591,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="415,15,447,15,447,21,415,21"/>
+<area shape="rect" id="Node000005" href="$group__graphic.html#gad1947e779c7e35bbb53b70479c173887" title="Sets a pixel color at given coordinates." alt="" coords="639,5,723,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="591,15,623,15,623,21,591,21"/>
+</map>

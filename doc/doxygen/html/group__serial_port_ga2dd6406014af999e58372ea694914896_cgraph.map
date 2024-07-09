@@ -1,0 +1,8 @@
+<map id="receiveTop" name="receiveTop">
+<area shape="rect" id="Node000001" title="Retrieves the top byte from the receive queue." alt="" coords="5,31,88,56"/>
+<area shape="rect" id="Node000002" href="$group__queue.html#ga0c1e6cc26ccdca2f859bc20c470869f9" title="Removes an item from the queue." alt="" coords="136,5,207,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,32,120,26,122,31,89,38"/>
+<area shape="rect" id="Node000003" href="$group__queue.html#gae2701ab012e9ff60a04d6ffd07a42e1b" title="Checks if the queue is empty." alt="" coords="255,31,325,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="88,41,239,41,239,46,88,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="207,23,240,30,239,35,206,28"/>
+</map>

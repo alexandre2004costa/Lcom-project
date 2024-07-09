@@ -1,0 +1,13 @@
+<map id="drawLetter" name="drawLetter">
+<area shape="rect" id="Node000001" title="Draws the desired letter in the desired position." alt="" coords="748,5,831,31"/>
+<area shape="rect" id="Node000002" href="$group___score.html#ga0dccd5722dbee7528c326a72a6394da0" title="Draws the desired letter in the desired position using drawLetter." alt="" coords="617,5,700,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="733,21,700,21,700,15,733,15"/>
+<area shape="rect" id="Node000003" href="$group___score.html#gaa5d68e83fb396f3c5e44a85a04799df6" title="Draws the score when the game is over." alt="" coords="425,5,569,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="602,21,570,21,570,15,602,15"/>
+<area shape="rect" id="Node000004" href="$group__model.html#gabfde4add52f261f709a8ee609891b1ed" title="Draws sprites and objects according to the game state." alt="" coords="321,5,377,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="410,21,378,21,378,15,410,15"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,5,273,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,21,274,21,274,15,306,15"/>
+<area shape="rect" id="Node000006" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,5,115,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,21,115,21,115,15,147,15"/>
+</map>

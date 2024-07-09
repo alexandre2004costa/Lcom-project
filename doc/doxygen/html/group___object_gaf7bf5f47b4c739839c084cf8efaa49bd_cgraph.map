@@ -1,0 +1,7 @@
+<map id="drawObject" name="drawObject">
+<area shape="rect" id="Node000001" title="Draws an object, drawing the sprite associated with the object." alt="" coords="5,5,92,31"/>
+<area shape="rect" id="Node000002" href="$group___sprite.html#ga05f5bc841453309732e52e639db61ba3" title="Draws a sprite using video graphics coloring." alt="" coords="140,5,223,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,15,124,15,124,21,93,21"/>
+<area shape="rect" id="Node000003" href="$group__graphic.html#gad1947e779c7e35bbb53b70479c173887" title="Sets a pixel color at given coordinates." alt="" coords="271,5,355,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="223,15,255,15,255,21,223,21"/>
+</map>

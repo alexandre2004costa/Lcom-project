@@ -1,0 +1,14 @@
+<map id="waitForEsc" name="waitForEsc">
+<area shape="rect" id="Node000001" title="Waits for the ESC key to be pressed, keyboard interrupt handler." alt="" coords="5,80,92,105"/>
+<area shape="rect" id="Node000002" href="$group__keyboard.html#gaca842ab89e3fc03d8cca103dd6808895" title="Keyboard interrupt handler. Reads the status register and the output buffer." alt="" coords="197,31,257,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="92,78,181,53,183,58,93,83"/>
+<area shape="rect" id="Node000005" href="$group__keyboard.html#ga178b1db0b319dccad2840cc3fd273132" title="Subscribes keyboard interrupts." alt="" coords="147,80,306,105"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="92,90,132,90,132,95,92,95"/>
+<area shape="rect" id="Node000006" href="$group__keyboard.html#ga32cc4de66854f8a7bd909e7aa8b901ed" title="Unsubscribes keyboard interrupts." alt="" coords="140,129,313,155"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="93,102,164,122,163,127,92,107"/>
+<area shape="rect" id="Node000003" href="$group__kbc.html#gac024af91b156e4fc61ee3886b891de21" title="Reads the KBC status register." alt="" coords="361,5,485,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,37,346,25,346,31,257,42"/>
+<area shape="rect" id="Node000004" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="533,31,624,56"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="257,41,518,41,518,46,257,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="486,26,518,31,518,36,485,31"/>
+</map>

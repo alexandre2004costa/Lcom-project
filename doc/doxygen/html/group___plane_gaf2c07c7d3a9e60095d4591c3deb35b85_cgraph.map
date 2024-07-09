@@ -1,0 +1,5 @@
+<map id="removePlane" name="removePlane">
+<area shape="rect" id="Node000001" title="Removes a Plane from the Planes array." alt="" coords="5,5,101,31"/>
+<area shape="rect" id="Node000002" href="$group___score.html#ga0fae4a43f845a9e727e17a308384669a" title="Increments finalScore by s." alt="" coords="149,5,249,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,15,133,15,133,21,102,21"/>
+</map>

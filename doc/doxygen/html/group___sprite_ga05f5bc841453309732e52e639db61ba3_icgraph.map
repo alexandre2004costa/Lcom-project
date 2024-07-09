@@ -1,0 +1,25 @@
+<map id="drawSprite" name="drawSprite">
+<area shape="rect" id="Node000001" title="Draws a sprite using video graphics coloring." alt="" coords="956,157,1039,183"/>
+<area shape="rect" id="Node000002" href="$group___object.html#gaf7bf5f47b4c739839c084cf8efaa49bd" title="Draws an object, drawing the sprite associated with the object." alt="" coords="625,69,712,95"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="940,158,711,96,713,91,941,152"/>
+<area shape="rect" id="Node000004" href="$group__model.html#gabfde4add52f261f709a8ee609891b1ed" title="Draws sprites and objects according to the game state." alt="" coords="321,107,377,132"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="941,175,843,176,714,174,570,165,425,146,377,133,379,127,426,141,570,160,715,169,843,171,941,170"/>
+<area shape="rect" id="Node000008" href="$group___score.html#ga3dc34522884bc6aa11850a9db06cef82" title="Draws a special character in the desired position." alt="" coords="760,208,908,233"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="942,190,878,210,877,205,940,185"/>
+<area shape="rect" id="Node000003" href="$group___bomb.html#ga441835a8f547166f369139dc02c86e78" title="Draws bombs from the Bombs Object array, depending if they are on the ground or not." alt="" coords="456,5,547,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="618,66,536,34,538,29,620,61"/>
+<area shape="poly" id="edge8_Node000002_Node000004" title=" " alt="" coords="610,83,523,85,426,97,379,111,377,106,425,91,522,80,610,78"/>
+<area shape="rect" id="Node000007" href="$group___bomb.html#gab1106994bcfc08f60e83500749d0b589" title="Draws bullets from the Bombs Object array." alt="" coords="457,107,546,132"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="611,98,547,112,546,107,610,92"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="450,39,427,52,391,80,364,108,360,104,388,76,424,48,448,35"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,107,273,132"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,122,274,122,274,117,306,117"/>
+<area shape="rect" id="Node000006" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,107,115,132"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,122,115,122,115,117,147,117"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="441,122,378,122,378,117,441,117"/>
+<area shape="rect" id="Node000009" href="$group___score.html#ga75b2737223299b7422daa837494a85a4" title="Draws the score and date of a certain game result." alt="" coords="631,208,707,233"/>
+<area shape="poly" id="edge11_Node000008_Node000009" title=" " alt="" coords="744,223,707,223,707,218,744,218"/>
+<area shape="rect" id="Node000010" href="$group___score.html#ga9ff02e39b58190c9490a91f673bf3635" title="Draws the score and date of all game results." alt="" coords="425,208,577,233"/>
+<area shape="poly" id="edge12_Node000009_Node000010" title=" " alt="" coords="615,223,578,223,578,218,615,218"/>
+<area shape="poly" id="edge13_Node000010_Node000004" title=" " alt="" coords="448,204,424,191,388,162,360,134,364,131,391,158,427,186,450,199"/>
+</map>

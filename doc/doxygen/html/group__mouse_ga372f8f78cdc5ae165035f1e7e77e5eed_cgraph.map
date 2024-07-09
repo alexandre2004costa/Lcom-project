@@ -1,0 +1,13 @@
+<map id="write_to_mouse" name="write_to_mouse">
+<area shape="rect" id="Node000001" title="Writes a command byte to the mouse." alt="" coords="5,31,119,56"/>
+<area shape="rect" id="Node000002" href="$group__kbc.html#ga41f2c6dbc1a38c60212be5c0b631607c" title="Reads the KBC output buffer." alt="" coords="178,55,302,80"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,48,163,54,162,60,119,54"/>
+<area shape="rect" id="Node000005" href="$group__kbc.html#ga34b653b3939fffe883c903cdadb36d3a" title="Writes a command byte to the KBC." alt="" coords="167,5,313,31"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="119,33,151,28,152,33,120,38"/>
+<area shape="rect" id="Node000003" href="$group__kbc.html#gac024af91b156e4fc61ee3886b891de21" title="Reads the KBC status register." alt="" coords="361,5,485,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="289,52,358,33,360,38,290,57"/>
+<area shape="rect" id="Node000004" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="533,31,624,56"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="302,60,518,45,518,50,303,66"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="486,26,518,31,518,36,485,31"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="314,15,346,15,346,21,314,21"/>
+</map>

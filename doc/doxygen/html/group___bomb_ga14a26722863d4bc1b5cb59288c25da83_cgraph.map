@@ -1,0 +1,7 @@
+<map id="bulletMovement" name="bulletMovement">
+<area shape="rect" id="Node000001" title="Checks colision between any bullet and any Plane Object, and handles plane crashing animations." alt="" coords="5,5,117,31"/>
+<area shape="rect" id="Node000002" href="$group___bomb.html#ga85458b960f8eff3fc8e0007b9f734195" title="Removes Bombs Object from array of Bombs." alt="" coords="165,5,263,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,15,150,15,150,21,118,21"/>
+<area shape="rect" id="Node000003" href="$group___score.html#ga0fae4a43f845a9e727e17a308384669a" title="Increments finalScore by s." alt="" coords="311,5,411,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="263,15,295,15,295,21,263,21"/>
+</map>

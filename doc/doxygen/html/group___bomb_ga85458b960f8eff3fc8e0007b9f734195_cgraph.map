@@ -1,0 +1,5 @@
+<map id="removeBomb" name="removeBomb">
+<area shape="rect" id="Node000001" title="Removes Bombs Object from array of Bombs." alt="" coords="5,5,103,31"/>
+<area shape="rect" id="Node000002" href="$group___score.html#ga0fae4a43f845a9e727e17a308384669a" title="Increments finalScore by s." alt="" coords="151,5,251,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,15,135,15,135,21,103,21"/>
+</map>

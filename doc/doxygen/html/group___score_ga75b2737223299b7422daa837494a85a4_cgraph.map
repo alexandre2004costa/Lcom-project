@@ -1,0 +1,17 @@
+<map id="drawDate" name="drawDate">
+<area shape="rect" id="Node000001" title="Draws the score and date of a certain game result." alt="" coords="5,25,81,50"/>
+<area shape="rect" id="Node000002" href="$group___score.html#gae41853c968aa8d2a6e5cadd43d4764e8" title="Draws the desired digit in the desired position." alt="" coords="325,24,400,49"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="80,22,129,10,203,3,278,10,311,17,310,22,277,15,203,8,130,15,81,27"/>
+<area shape="rect" id="Node000005" href="$group___score.html#ga5f3782cac38d5b54eb3e6a4b335520fd" title="Draws the desired number in the desired position using drawDigit." alt="" coords="156,25,251,50"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="82,35,140,35,140,40,82,40"/>
+<area shape="rect" id="Node000006" href="$group___score.html#ga3dc34522884bc6aa11850a9db06cef82" title="Draws a special character in the desired position." alt="" coords="129,74,277,100"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="83,47,147,67,145,72,81,52"/>
+<area shape="rect" id="Node000003" href="$group___sprite.html#gab920cea990dd26eae2ce9b44280ecd9f" title="In a xpm map where there are multiple images for individual sprites, this function retrieves only the..." alt="" coords="448,25,576,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="401,34,433,34,433,40,401,39"/>
+<area shape="rect" id="Node000004" href="$group__graphic.html#gad1947e779c7e35bbb53b70479c173887" title="Sets a pixel color at given coordinates." alt="" coords="624,50,708,76"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="577,46,609,51,608,56,576,51"/>
+<area shape="poly" id="edge5_Node000005_Node000002" title=" " alt="" coords="251,35,310,34,310,39,251,40"/>
+<area shape="rect" id="Node000007" href="$group___sprite.html#ga05f5bc841453309732e52e639db61ba3" title="Draws a sprite using video graphics coloring." alt="" coords="471,74,553,100"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="278,84,455,84,455,90,278,90"/>
+<area shape="poly" id="edge8_Node000007_Node000004" title=" " alt="" coords="553,78,608,69,609,75,554,83"/>
+</map>

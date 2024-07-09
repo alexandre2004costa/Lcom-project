@@ -1,0 +1,13 @@
+<map id="configureBitrate" name="configureBitrate">
+<area shape="rect" id="Node000001" title="Configures the UART bitrate." alt="" coords="5,80,117,105"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#ga17506abf86c8593cd2f229399a8a3770" title="Reads the content in the address and puts it in the command." alt="" coords="174,5,257,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="88,77,172,36,175,40,91,82"/>
+<area shape="rect" id="Node000004" href="$group__serial_port.html#ga09b8737f83e735eafa4f875339c0187c" title="Writes the command to the specified address." alt="" coords="173,55,257,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="117,81,158,74,158,79,118,86"/>
+<area shape="rect" id="Node000005" href="$group__utils.html#ga81621440b3d65680979425e39aa8c789" title="Gets the least significant byte out of a 2 byte value." alt="" coords="167,104,263,129"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="118,99,152,104,151,109,117,104"/>
+<area shape="rect" id="Node000006" href="$group__utils.html#ga6a880076cd2ec468834438b6e0c58836" title="Gets the most significant byte out of a 2 byte value." alt="" coords="165,153,265,179"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="91,104,174,144,172,149,89,108"/>
+<area shape="rect" id="Node000003" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="313,5,404,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,15,298,15,298,21,257,21"/>
+</map>

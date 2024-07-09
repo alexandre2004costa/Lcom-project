@@ -1,0 +1,7 @@
+<map id="mouse_ih" name="mouse_ih">
+<area shape="rect" id="Node000001" title="Mouse interrupt handler. Reads the mouse scancode from the output buffer." alt="" coords="321,5,400,31"/>
+<area shape="rect" id="Node000002" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,5,273,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="305,21,274,21,274,15,305,15"/>
+<area shape="rect" id="Node000003" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,5,115,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="147,21,115,21,115,15,147,15"/>
+</map>

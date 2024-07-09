@@ -1,0 +1,19 @@
+<map id="drawNumber" name="drawNumber">
+<area shape="rect" id="Node000001" title="Draws the desired number in the desired position using drawDigit." alt="" coords="817,56,912,81"/>
+<area shape="rect" id="Node000002" href="$group___score.html#ga75b2737223299b7422daa837494a85a4" title="Draws the score and date of a certain game result." alt="" coords="659,5,735,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="805,54,735,32,736,27,807,48"/>
+<area shape="rect" id="Node000007" href="$group___score.html#gaa5d68e83fb396f3c5e44a85a04799df6" title="Draws the score when the game is over." alt="" coords="429,56,573,81"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="802,71,574,71,574,66,802,66"/>
+<area shape="rect" id="Node000008" href="$group___score.html#ga296d8916bf0df13973ac884505a3a228" title="Draws the score number during game play." alt="" coords="625,107,769,132"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="807,89,742,109,741,104,805,84"/>
+<area shape="rect" id="Node000003" href="$group___score.html#ga9ff02e39b58190c9490a91f673bf3635" title="Draws the score and date of all game results." alt="" coords="425,7,577,32"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="644,21,578,21,578,16,644,16"/>
+<area shape="rect" id="Node000004" href="$group__model.html#gabfde4add52f261f709a8ee609891b1ed" title="Draws sprites and objects according to the game state." alt="" coords="321,56,377,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="445,40,426,46,379,62,377,57,424,41,443,35"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,56,273,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,71,274,71,274,66,306,66"/>
+<area shape="rect" id="Node000006" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,56,115,81"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,71,115,71,115,66,147,66"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="414,71,378,71,378,66,414,66"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="610,119,520,112,425,97,377,82,379,77,426,91,521,106,610,114"/>
+</map>

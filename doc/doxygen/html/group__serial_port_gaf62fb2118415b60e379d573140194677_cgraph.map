@@ -1,0 +1,9 @@
+<map id="setParameters" name="setParameters">
+<area shape="rect" id="Node000001" title="Sets the parameters for the UART such as number of bits per character and parity control." alt="" coords="5,31,112,56"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#ga17506abf86c8593cd2f229399a8a3770" title="Reads the content in the address and puts it in the command." alt="" coords="161,5,243,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,31,145,25,146,31,113,37"/>
+<area shape="rect" id="Node000004" href="$group__serial_port.html#ga09b8737f83e735eafa4f875339c0187c" title="Writes the command to the specified address." alt="" coords="160,55,244,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="113,50,145,55,144,60,112,55"/>
+<area shape="rect" id="Node000003" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="292,5,383,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="244,15,276,15,276,21,244,21"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="rtc_output" name="rtc_output">
+<area shape="rect" id="Node000001" title="Receives a rtc output using a command." alt="" coords="5,5,85,31"/>
+<area shape="rect" id="Node000002" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="133,5,224,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,15,118,15,118,21,86,21"/>
+</map>

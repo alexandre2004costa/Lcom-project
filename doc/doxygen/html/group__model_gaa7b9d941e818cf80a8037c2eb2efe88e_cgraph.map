@@ -1,0 +1,9 @@
+<map id="prepareGame" name="prepareGame">
+<area shape="rect" id="Node000001" title="Actions to prepare a gameplay." alt="" coords="5,55,105,80"/>
+<area shape="rect" id="Node000002" href="$group___bomb.html#ga771ab4a4caae2f51dfe3f3848aa7dbad" title="Creates an array of bombs Objects." alt="" coords="154,5,289,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="100,52,161,33,163,38,101,57"/>
+<area shape="rect" id="Node000003" href="$group___plane.html#ga495f6a2c3c5328ecc45d5b22f17ca538" title="Creates an array of Planes Objects." alt="" coords="153,55,289,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="106,65,138,65,138,70,106,70"/>
+<area shape="rect" id="Node000004" href="$group___plane.html#ga71989864ed2f0217f79a13cd85dac0ef" title="Frees up memory used by planes." alt="" coords="180,104,263,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="101,78,166,98,165,103,100,83"/>
+</map>

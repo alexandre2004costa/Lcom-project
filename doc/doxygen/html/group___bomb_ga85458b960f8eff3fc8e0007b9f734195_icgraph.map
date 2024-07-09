@@ -1,0 +1,14 @@
+<map id="removeBomb" name="removeBomb">
+<area shape="rect" id="Node000001" title="Removes Bombs Object from array of Bombs." alt="" coords="619,31,716,56"/>
+<area shape="rect" id="Node000002" href="$group___bomb.html#ga6b79805d150252275de040426397eae8" title="Checks colision between player and a bomb and changes the bomb sprite when it hits the ground." alt="" coords="457,5,571,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="603,35,571,30,572,25,604,30"/>
+<area shape="rect" id="Node000006" href="$group___bomb.html#ga14a26722863d4bc1b5cb59288c25da83" title="Checks colision between any bullet and any Plane Object, and handles plane crashing animations." alt="" coords="458,55,570,80"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="604,56,571,61,570,56,603,51"/>
+<area shape="rect" id="Node000003" href="$group__model.html#gae90942ace73fc6415036553af5809ac7" title="Handles objects movement depending on the game state." alt="" coords="321,31,409,56"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="443,33,410,38,409,33,442,28"/>
+<area shape="rect" id="Node000004" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,31,273,56"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,46,274,46,274,41,306,41"/>
+<area shape="rect" id="Node000005" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,31,115,56"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="147,46,115,46,115,41,147,41"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="442,58,409,53,410,48,443,53"/>
+</map>

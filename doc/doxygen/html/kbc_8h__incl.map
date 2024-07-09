@@ -1,0 +1,7 @@
+<map id="devices/kbc.h" name="devices/kbc.h">
+<area shape="rect" id="Node000001" title=" " alt="" coords="42,5,143,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,84,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="87,33,64,67,59,64,83,30"/>
+<area shape="rect" id="Node000003" href="$i8042_8h.html" title=" " alt="" coords="109,79,173,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="103,30,126,64,122,67,98,33"/>
+</map>

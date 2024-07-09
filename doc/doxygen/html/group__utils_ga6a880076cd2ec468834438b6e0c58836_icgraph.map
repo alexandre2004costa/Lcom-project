@@ -1,0 +1,13 @@
+<map id="util_get_MSB" name="util_get_MSB">
+<area shape="rect" id="Node000001" title="Gets the most significant byte out of a 2 byte value." alt="" coords="784,5,884,31"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#ga6e430192c0b471ff49d8b5a9a24365a5" title="Configures the UART bitrate." alt="" coords="624,5,736,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="768,21,737,21,737,15,768,15"/>
+<area shape="rect" id="Node000003" href="$group__serial_port.html#gadaa29fb414c7cf1b53b22b80019ac687" title="Initializes the serial port by setting up parameters, configuring the bitrate, and enabling FIFOs." alt="" coords="489,5,576,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="608,21,576,21,576,15,608,15"/>
+<area shape="rect" id="Node000004" href="$group__serial_port.html#ga80f33121bfc0cd5225b380d2a90089f7" title="Subscribes to serial port interrupts and performs the initial setup." alt="" coords="325,5,441,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="474,21,442,21,442,15,474,15"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga3860d7c9a485d25b8a14a1b04d992fe7" title="Enables all interrupts." alt="" coords="163,5,277,31"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="310,21,278,21,278,15,310,15"/>
+<area shape="rect" id="Node000006" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,5,115,31"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,21,115,21,115,15,147,15"/>
+</map>

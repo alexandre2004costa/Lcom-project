@@ -1,0 +1,14 @@
+<map id="freqActions" name="freqActions">
+<area shape="rect" id="Node000001" title="Actions that take place taking into consideration the count." alt="" coords="5,55,92,80"/>
+<area shape="rect" id="Node000002" href="$group___sprite.html#ga8c1b8e32a4abe501a92c4034a29f1113" title="In case you need to change the xpm (appearance) of a certain sprite." alt="" coords="140,5,239,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="86,52,136,34,138,39,88,57"/>
+<area shape="rect" id="Node000003" href="$group___bomb.html#gade10140bd209c6f9212a8b603f23eae6" title="Creates a bomb/bullet Object with vertical speed." alt="" coords="143,55,235,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="93,65,128,65,128,70,93,70"/>
+<area shape="rect" id="Node000006" href="$group___plane.html#ga2eedcf23eb2576f1bac3d09f1b82707d" title="Creates a Plane Object, that can appear on either the right or left, and is added to the array of Pla..." alt="" coords="144,104,235,129"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="88,78,138,96,136,101,86,83"/>
+<area shape="rect" id="Node000004" href="$group___object.html#ga5bf3d7a34b95a9af8390c898658fd6ad" title="Creates an object with no speed. Uses sprite creation for the sprite parameter." alt="" coords="287,80,387,105"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="236,73,272,79,271,84,235,78"/>
+<area shape="rect" id="Node000005" href="$group___sprite.html#gabfa3f5e07cf276e0fd70cc89597d5d5f" title="Creates a sprite (with position, dimension and a map) from a xpm and a position." alt="" coords="435,80,532,105"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="387,90,419,90,419,95,387,95"/>
+<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="235,107,271,101,271,106,236,112"/>
+</map>

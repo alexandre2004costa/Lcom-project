@@ -1,0 +1,84 @@
+<map id="util_sys_inb" name="util_sys_inb">
+<area shape="rect" id="Node000001" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="1207,195,1297,220"/>
+<area shape="rect" id="Node000002" href="$group__keyboard.html#gaca842ab89e3fc03d8cca103dd6808895" title="Keyboard interrupt handler. Reads the status register and the output buffer." alt="" coords="883,24,943,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1238,181,1207,125,1185,97,1157,74,1131,60,1103,50,1044,38,988,35,944,36,944,31,988,30,1044,33,1104,45,1133,55,1160,69,1189,93,1212,122,1243,179"/>
+<area shape="rect" id="Node000006" href="$group__kbc.html#ga41f2c6dbc1a38c60212be5c0b631607c" title="Reads the KBC output buffer." alt="" coords="851,123,975,148"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="1191,197,975,151,976,146,1192,192"/>
+<area shape="rect" id="Node000010" href="$group__kbc.html#gac024af91b156e4fc61ee3886b891de21" title="Reads the KBC status register." alt="" coords="1035,84,1159,110"/>
+<area shape="poly" id="edge10_Node000001_Node000010" title=" " alt="" coords="1219,188,1115,112,1118,108,1222,183"/>
+<area shape="rect" id="Node000012" href="$group__rtc.html#ga8e4030507a3afad53e5b80851f90d193" title="Receives a rtc output using a command." alt="" coords="1057,220,1137,246"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="1192,220,1138,229,1137,224,1191,215"/>
+<area shape="rect" id="Node000017" href="$group__serial_port.html#ga17506abf86c8593cd2f229399a8a3770" title="Reads the content in the address and puts it in the command." alt="" coords="1055,450,1138,475"/>
+<area shape="poly" id="edge24_Node000001_Node000017" title=" " alt="" coords="1237,235,1108,450,1104,448,1233,232"/>
+<area shape="rect" id="Node000031" href="$group__timer.html#ga703c60b40c8c49607d6ecb6fef82d27a" title="Gets the current timer configuration." alt="" coords="1043,599,1150,624"/>
+<area shape="poly" id="edge48_Node000001_Node000031" title=" " alt="" coords="1246,236,1212,347,1161,489,1132,551,1108,600,1103,597,1128,549,1156,487,1207,345,1241,234"/>
+<area shape="rect" id="Node000003" href="$group__keyboard.html#ga65e41a16e029b1b743372753e8e9d8d3" title="Waits for the ESC key to be pressed, keyboard interrupt handler." alt="" coords="692,24,779,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="868,40,779,40,779,34,868,34"/>
+<area shape="rect" id="Node000004" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="177,300,287,326"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="868,26,827,17,780,10,729,8,679,14,579,38,503,64,433,102,351,163,315,198,284,236,243,301,238,298,279,233,311,194,348,159,430,98,501,59,578,33,678,9,729,3,780,5,828,12,869,21"/>
+<area shape="rect" id="Node000005" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,575,115,600"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,340,72,576,67,573,212,337"/>
+<area shape="rect" id="Node000007" href="$group__keyboard.html#ga755ae62f44aba9859676bfd9a6ebef4a" title="Enables keyboard interrupts." alt="" coords="682,74,789,99"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="850,121,783,102,785,97,851,116"/>
+<area shape="rect" id="Node000008" href="$group__mouse.html#ga210374b50462acdedab00df64d5cea3c" title="Mouse interrupt handler. Reads the mouse scancode from the output buffer." alt="" coords="369,174,447,199"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="839,154,792,162,599,180,448,188,447,182,598,175,792,157,838,149"/>
+<area shape="rect" id="Node000009" href="$group__mouse.html#ga372f8f78cdc5ae165035f1e7e77e5eed" title="Writes a command byte to the mouse." alt="" coords="679,123,792,148"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="836,138,792,138,792,133,836,133"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="360,208,351,214,291,260,248,302,244,298,288,256,348,209,357,204"/>
+<area shape="poly" id="edge11_Node000010_Node000002" title=" " alt="" coords="1040,81,943,49,945,44,1042,76"/>
+<area shape="poly" id="edge12_Node000010_Node000006" title=" " alt="" coords="1020,116,976,125,975,120,1019,111"/>
+<area shape="rect" id="Node000011" href="$group__kbc.html#ga34b653b3939fffe883c903cdadb36d3a" title="Writes a command byte to the KBC." alt="" coords="840,74,987,99"/>
+<area shape="poly" id="edge13_Node000010_Node000011" title=" " alt="" coords="1019,95,987,93,987,88,1019,90"/>
+<area shape="poly" id="edge14_Node000011_Node000007" title=" " alt="" coords="824,89,789,89,789,84,824,84"/>
+<area shape="poly" id="edge15_Node000011_Node000009" title=" " alt="" coords="851,106,785,125,783,120,850,101"/>
+<area shape="rect" id="Node000013" href="$group__rtc.html#ga5873dc86f56c4a2a8ea8f7faf07ef798" title="Checks if the provided output is in binary." alt="" coords="865,274,961,299"/>
+<area shape="poly" id="edge17_Node000012_Node000013" title=" " alt="" coords="1043,251,960,275,959,270,1041,246"/>
+<area shape="rect" id="Node000014" href="$group__rtc.html#gaba1881e31984e15eee882c2de63db817" title="Updates the real_time variable with the current time." alt="" coords="689,224,782,250"/>
+<area shape="poly" id="edge23_Node000012_Node000014" title=" " alt="" coords="1041,236,782,239,782,234,1041,231"/>
+<area shape="rect" id="Node000016" href="$group__rtc.html#ga47d5762e49eb390b04a09fc319c4e047" title="Checks if the rtc is updating by getting its current output." alt="" coords="858,172,969,198"/>
+<area shape="poly" id="edge21_Node000012_Node000016" title=" " alt="" coords="1041,221,964,201,965,196,1042,216"/>
+<area shape="poly" id="edge18_Node000013_Node000014" title=" " alt="" coords="850,272,782,252,783,247,851,266"/>
+<area shape="rect" id="Node000015" href="$group__model.html#gae90942ace73fc6415036553af5809ac7" title="Handles objects movement depending on the game state." alt="" coords="364,224,452,250"/>
+<area shape="poly" id="edge19_Node000014_Node000015" title=" " alt="" coords="673,240,452,240,452,234,673,234"/>
+<area shape="poly" id="edge20_Node000015_Node000004" title=" " alt="" coords="364,259,264,302,262,297,361,254"/>
+<area shape="poly" id="edge22_Node000016_Node000014" title=" " alt="" coords="854,205,782,226,781,221,852,200"/>
+<area shape="rect" id="Node000018" href="$group__serial_port.html#ga427b4e09d63feab5704aea9c2b120652" title="Checks if there is data available to read from the serial port." alt="" coords="868,424,959,450"/>
+<area shape="poly" id="edge25_Node000017_Node000018" title=" " alt="" coords="1039,457,959,446,959,440,1040,452"/>
+<area shape="rect" id="Node000019" href="$group__serial_port.html#gad9878c6f354287fd77a9a1763a4865df" title="Reads a byte from the serial port if data is available and adds it to the receive queue." alt="" coords="698,424,773,450"/>
+<area shape="poly" id="edge44_Node000017_Node000019" title=" " alt="" coords="1059,444,1025,428,986,415,929,409,870,412,817,419,774,429,773,424,816,414,870,406,929,404,987,410,1027,423,1062,439"/>
+<area shape="rect" id="Node000020" href="$group__serial_port.html#gae0fe040b0f68ce53058ee5d71e8c839a" title="Interrupt handler for serial port." alt="" coords="537,426,608,451"/>
+<area shape="poly" id="edge45_Node000017_Node000020" title=" " alt="" coords="1040,469,878,474,778,472,678,465,608,451,609,446,679,460,778,467,878,469,1040,463"/>
+<area shape="rect" id="Node000021" href="$group__serial_port.html#ga0c0a41de9508849bd28f81c5ebb2a5a5" title="Checks if the serial port is ready to write." alt="" coords="868,323,959,348"/>
+<area shape="poly" id="edge29_Node000017_Node000021" title=" " alt="" coords="1071,441,1032,405,985,370,949,351,951,346,988,365,1036,401,1074,437"/>
+<area shape="rect" id="Node000025" href="$group__serial_port.html#ga6e430192c0b471ff49d8b5a9a24365a5" title="Configures the UART bitrate." alt="" coords="857,575,969,600"/>
+<area shape="poly" id="edge37_Node000017_Node000025" title=" " alt="" coords="1077,489,1038,528,988,566,965,577,963,572,985,561,1034,524,1073,485"/>
+<area shape="rect" id="Node000029" href="$group__serial_port.html#ga36ec510ca0b9e6b05494558dbb9bc737" title="Enables FIFOs for both receiver and transmitter and clears them." alt="" coords="869,624,957,650"/>
+<area shape="poly" id="edge42_Node000017_Node000029" title=" " alt="" coords="1085,490,1047,552,1020,586,988,615,959,630,957,625,985,611,1016,582,1043,549,1080,487"/>
+<area shape="rect" id="Node000030" href="$group__serial_port.html#gaf62fb2118415b60e379d573140194677" title="Sets the parameters for the UART such as number of bits per character and parity control." alt="" coords="860,526,967,551"/>
+<area shape="poly" id="edge46_Node000017_Node000030" title=" " alt="" coords="1051,484,947,528,945,523,1049,479"/>
+<area shape="poly" id="edge26_Node000018_Node000019" title=" " alt="" coords="853,440,773,440,773,434,853,434"/>
+<area shape="poly" id="edge27_Node000019_Node000020" title=" " alt="" coords="683,440,609,441,608,435,682,435"/>
+<area shape="poly" id="edge28_Node000020_Node000004" title=" " alt="" coords="522,429,440,407,348,375,297,352,255,328,257,324,300,347,350,370,441,402,523,424"/>
+<area shape="rect" id="Node000022" href="$group__serial_port.html#ga80f7d8188f4fae588b084a0d3e0903c5" title="Sends a byte from the transmit queue if it is not empty and the serial port is ready to write." alt="" coords="697,324,774,350"/>
+<area shape="poly" id="edge30_Node000021_Node000022" title=" " alt="" coords="853,339,774,339,774,334,853,333"/>
+<area shape="poly" id="edge36_Node000022_Node000004" title=" " alt="" coords="681,326,630,317,536,310,442,308,288,312,287,307,442,303,536,305,631,312,682,320"/>
+<area shape="poly" id="edge35_Node000022_Node000020" title=" " alt="" coords="702,360,596,427,593,423,699,356"/>
+<area shape="rect" id="Node000023" href="$group__model.html#ga615cbd03432a5100300013ef5183eac4" title="Creates actions for the left mouse button clicking depending on the game state." alt="" coords="519,326,626,351"/>
+<area shape="poly" id="edge31_Node000022_Node000023" title=" " alt="" coords="681,340,626,340,626,335,681,335"/>
+<area shape="poly" id="edge34_Node000023_Node000004" title=" " alt="" coords="513,358,435,370,391,371,349,366,297,349,255,328,257,324,299,344,350,361,392,366,434,365,512,352"/>
+<area shape="rect" id="Node000024" href="$group__model.html#gabcfbfb281c513ee546d8987b387614d7" title="Manage the bytes sended from the other player." alt="" coords="349,326,467,351"/>
+<area shape="poly" id="edge32_Node000023_Node000024" title=" " alt="" coords="504,341,467,341,467,336,504,336"/>
+<area shape="poly" id="edge33_Node000024_Node000004" title=" " alt="" coords="333,330,287,323,288,318,334,325"/>
+<area shape="rect" id="Node000026" href="$group__serial_port.html#gadaa29fb414c7cf1b53b22b80019ac687" title="Initializes the serial port by setting up parameters, configuring the bitrate, and enabling FIFOs." alt="" coords="692,575,779,600"/>
+<area shape="poly" id="edge38_Node000025_Node000026" title=" " alt="" coords="842,590,779,590,779,585,842,585"/>
+<area shape="rect" id="Node000027" href="$group__serial_port.html#ga80f33121bfc0cd5225b380d2a90089f7" title="Subscribes to serial port interrupts and performs the initial setup." alt="" coords="515,575,631,600"/>
+<area shape="poly" id="edge39_Node000026_Node000027" title=" " alt="" coords="677,590,631,590,631,585,677,585"/>
+<area shape="rect" id="Node000028" href="$group__model.html#ga3860d7c9a485d25b8a14a1b04d992fe7" title="Enables all interrupts." alt="" coords="175,575,289,600"/>
+<area shape="poly" id="edge40_Node000027_Node000028" title=" " alt="" coords="499,590,290,590,290,585,499,585"/>
+<area shape="poly" id="edge41_Node000028_Node000005" title=" " alt="" coords="159,590,115,590,115,585,159,585"/>
+<area shape="poly" id="edge43_Node000029_Node000026" title=" " alt="" coords="854,623,778,602,780,597,855,618"/>
+<area shape="poly" id="edge47_Node000030_Node000026" title=" " alt="" coords="851,558,780,578,778,573,850,553"/>
+<area shape="rect" id="Node000032" href="$group__timer.html#gaf2c04fa8e97ffa748fd3f612886a92a7" title="Changes the frequency of a timer." alt="" coords="163,650,301,675"/>
+<area shape="poly" id="edge49_Node000031_Node000032" title=" " alt="" coords="1061,634,1026,651,987,665,918,681,863,689,737,690,571,690,427,684,302,673,302,668,427,679,571,685,737,685,863,683,917,676,986,660,1024,646,1059,629"/>
+<area shape="poly" id="edge50_Node000032_Node000005" title=" " alt="" coords="186,645,90,603,93,598,188,640"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="rtc_is_binary" name="rtc_is_binary">
+<area shape="rect" id="Node000001" title="Checks if the provided output is in binary." alt="" coords="5,5,101,31"/>
+<area shape="rect" id="Node000002" href="$group__rtc.html#ga8e4030507a3afad53e5b80851f90d193" title="Receives a rtc output using a command." alt="" coords="149,5,229,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,15,134,15,134,21,102,21"/>
+<area shape="rect" id="Node000003" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="277,5,368,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="230,15,262,15,262,21,230,21"/>
+</map>

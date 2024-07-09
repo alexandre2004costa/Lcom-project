@@ -1,0 +1,5 @@
+<map id="enableSerialInterrupts" name="enableSerialInterrupts">
+<area shape="rect" id="Node000001" title="Enables serial port interrupts for data available, transmitter holding register empty,..." alt="" coords="5,5,152,31"/>
+<area shape="rect" id="Node000002" href="$group__serial_port.html#ga09b8737f83e735eafa4f875339c0187c" title="Writes the command to the specified address." alt="" coords="200,5,284,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="152,15,184,15,184,21,152,21"/>
+</map>

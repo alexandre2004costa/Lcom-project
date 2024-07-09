@@ -1,0 +1,10 @@
+<map id="mouse_ih" name="mouse_ih">
+<area shape="rect" id="Node000001" title="Mouse interrupt handler. Reads the mouse scancode from the output buffer." alt="" coords="5,31,84,56"/>
+<area shape="rect" id="Node000002" href="$group__kbc.html#ga41f2c6dbc1a38c60212be5c0b631607c" title="Reads the KBC output buffer." alt="" coords="132,31,256,56"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="85,41,117,41,117,46,85,46"/>
+<area shape="rect" id="Node000003" href="$group__kbc.html#gac024af91b156e4fc61ee3886b891de21" title="Reads the KBC status register." alt="" coords="304,5,428,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="256,32,288,27,289,32,257,37"/>
+<area shape="rect" id="Node000004" href="$group__utils.html#ga79a031a8611f5b2d6afa4158e92b0fb4" title="Reads content through a designated port, and converts the 32 bits read value into an 8 bit one." alt="" coords="476,31,567,56"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="256,41,460,41,460,46,256,46"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="429,26,461,31,460,36,428,31"/>
+</map>

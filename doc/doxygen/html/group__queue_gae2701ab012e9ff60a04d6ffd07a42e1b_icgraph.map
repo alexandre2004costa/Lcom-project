@@ -1,0 +1,25 @@
+<map id="isEmpty" name="isEmpty">
+<area shape="rect" id="Node000001" title="Checks if the queue is empty." alt="" coords="891,56,961,81"/>
+<area shape="rect" id="Node000002" href="$group__queue.html#ga0c1e6cc26ccdca2f859bc20c470869f9" title="Removes an item from the queue." alt="" coords="772,56,843,81"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="875,71,843,71,843,66,875,66"/>
+<area shape="rect" id="Node000003" href="$group__serial_port.html#ga2dd6406014af999e58372ea694914896" title="Retrieves the top byte from the receive queue." alt="" coords="641,5,724,31"/>
+<area shape="poly" id="edge13_Node000001_Node000003" title=" " alt="" coords="875,55,842,46,724,25,725,20,843,41,877,50"/>
+<area shape="rect" id="Node000007" href="$group__serial_port.html#ga80f7d8188f4fae588b084a0d3e0903c5" title="Sends a byte from the transmit queue if it is not empty and the serial port is ready to write." alt="" coords="644,107,721,132"/>
+<area shape="poly" id="edge14_Node000001_Node000007" title=" " alt="" coords="877,88,843,97,722,117,721,112,842,91,875,82"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="759,52,715,34,717,29,761,47"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="761,90,717,109,715,104,759,85"/>
+<area shape="rect" id="Node000004" href="$group__model.html#gabcfbfb281c513ee546d8987b387614d7" title="Manage the bytes sended from the other player." alt="" coords="321,5,439,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="626,21,439,21,439,15,626,15"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,81,273,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="338,40,248,83,246,79,336,35"/>
+<area shape="rect" id="Node000006" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,81,115,107"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,97,115,97,115,91,147,91"/>
+<area shape="poly" id="edge12_Node000007_Node000005" title=" " alt="" coords="629,135,566,147,489,157,405,158,362,155,321,147,275,130,238,110,240,105,277,125,322,142,363,149,405,153,489,151,566,142,628,130"/>
+<area shape="rect" id="Node000008" href="$group__model.html#ga615cbd03432a5100300013ef5183eac4" title="Creates actions for the left mouse button clicking depending on the game state." alt="" coords="487,56,593,81"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="630,103,577,84,579,79,631,98"/>
+<area shape="rect" id="Node000009" href="$group__serial_port.html#gae0fe040b0f68ce53058ee5d71e8c839a" title="Interrupt handler for serial port." alt="" coords="345,107,415,132"/>
+<area shape="poly" id="edge10_Node000007_Node000009" title=" " alt="" coords="628,122,416,122,416,117,628,117"/>
+<area shape="poly" id="edge8_Node000008_Node000004" title=" " alt="" coords="482,53,422,34,423,29,484,48"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="471,77,274,92,274,87,471,71"/>
+<area shape="poly" id="edge11_Node000009_Node000005" title=" " alt="" coords="329,114,273,105,274,100,330,109"/>
+</map>

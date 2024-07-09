@@ -1,0 +1,17 @@
+<map id="rtc_output" name="rtc_output">
+<area shape="rect" id="Node000001" title="Receives a rtc output using a command." alt="" coords="757,56,837,81"/>
+<area shape="rect" id="Node000002" href="$group__rtc.html#ga5873dc86f56c4a2a8ea8f7faf07ef798" title="Checks if the provided output is in binary." alt="" coords="606,5,702,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="744,53,691,34,693,29,746,48"/>
+<area shape="rect" id="Node000003" href="$group__rtc.html#gaba1881e31984e15eee882c2de63db817" title="Updates the real_time variable with the current time." alt="" coords="457,56,551,81"/>
+<area shape="poly" id="edge8_Node000001_Node000003" title=" " alt="" coords="742,71,551,71,551,66,742,66"/>
+<area shape="rect" id="Node000007" href="$group__rtc.html#ga47d5762e49eb390b04a09fc319c4e047" title="Checks if the rtc is updating by getting its current output." alt="" coords="599,107,709,132"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="746,90,693,109,691,104,744,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="601,39,545,58,543,53,599,34"/>
+<area shape="rect" id="Node000004" href="$group__model.html#gae90942ace73fc6415036553af5809ac7" title="Handles objects movement depending on the game state." alt="" coords="321,56,409,81"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="442,71,410,71,410,66,442,66"/>
+<area shape="rect" id="Node000005" href="$group__model.html#ga9609734d63e7e894f5faa64d06c2abc7" title="Inside each interrupt, perform actions so the game makes sense." alt="" coords="163,56,273,81"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="306,71,274,71,274,66,306,66"/>
+<area shape="rect" id="Node000006" href="$group__proj.html#ga2a16f651eccbd248e1ad3b3b924b143b" title="Main loop." alt="" coords="5,56,115,81"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="147,71,115,71,115,66,147,66"/>
+<area shape="poly" id="edge7_Node000007_Node000003" title=" " alt="" coords="599,104,543,84,545,79,601,99"/>
+</map>

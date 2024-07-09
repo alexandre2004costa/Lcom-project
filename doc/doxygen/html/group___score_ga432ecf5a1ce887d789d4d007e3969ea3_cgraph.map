@@ -1,0 +1,9 @@
+<map id="updateGameResults" name="updateGameResults">
+<area shape="rect" id="Node000001" title="Writes scores and dates of 9 games sorted by descending order of scores." alt="" coords="5,55,145,80"/>
+<area shape="rect" id="Node000002" href="$group___score.html#ga3003bc209fbd623b0ebf8d55c3f76454" title="Compares the score of two games." alt="" coords="201,5,314,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,52,193,33,194,38,125,57"/>
+<area shape="rect" id="Node000003" href="$group___score.html#ga9a8f8f1e2b798ab6fe9b9eca01e40d6e" title="Reads each game results line by line." alt="" coords="194,55,321,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="145,65,178,65,178,70,145,70"/>
+<area shape="rect" id="Node000004" href="$group___score.html#gadfe58f74ec663d56f406fa6253ea84be" title="Writes the date and the score of each game line by line." alt="" coords="193,104,321,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="125,78,194,97,193,102,124,83"/>
+</map>

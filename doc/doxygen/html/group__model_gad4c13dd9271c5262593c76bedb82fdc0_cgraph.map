@@ -1,0 +1,15 @@
+<map id="loadSprites" name="loadSprites">
+<area shape="rect" id="Node000001" title="Creates objects for moving elements and sprites for non moving ones." alt="" coords="5,105,92,131"/>
+<area shape="rect" id="Node000002" href="$group___bomb.html#ga771ab4a4caae2f51dfe3f3848aa7dbad" title="Creates an array of bombs Objects." alt="" coords="141,5,275,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="60,103,94,72,139,40,148,35,150,40,141,44,97,76,64,107"/>
+<area shape="rect" id="Node000003" href="$group___object.html#ga5bf3d7a34b95a9af8390c898658fd6ad" title="Creates an object with no speed. Uses sprite creation for the sprite parameter." alt="" coords="158,55,258,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="90,102,151,83,153,88,92,107"/>
+<area shape="rect" id="Node000004" href="$group___sprite.html#gabfa3f5e07cf276e0fd70cc89597d5d5f" title="Creates a sprite (with position, dimension and a map) from a xpm and a position." alt="" coords="324,105,421,131"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="92,115,308,115,308,121,92,121"/>
+<area shape="rect" id="Node000005" href="$group___plane.html#ga495f6a2c3c5328ecc45d5b22f17ca538" title="Creates an array of Planes Objects." alt="" coords="140,156,276,181"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="92,129,153,148,151,153,90,134"/>
+<area shape="rect" id="Node000006" href="$group___score.html#ga43d37cde96ecc6c2a8456cf24fee037e" title="Creates a sprite for each xpm." alt="" coords="147,205,269,231"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="65,129,98,159,141,190,153,196,150,201,139,195,95,163,61,133"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="253,78,315,98,314,103,251,83"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="249,202,275,190,312,165,344,139,348,143,315,170,277,195,251,207"/>
+</map>
