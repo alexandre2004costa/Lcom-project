@@ -1,7 +1,7 @@
 # Aerial Ambush
 
-Jogo criado para a cadeira LCOM.
-Ver o pdf na pasta DOC para mais detalhes.
+Game created for LCOM using Minix.
+See pdf in DOC folder for more info.
 
 ## Gameplay vídeo -> https://www.youtube.com/watch?v=qVklpdX0Ras
 
