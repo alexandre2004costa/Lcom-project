@@ -2,7 +2,8 @@
 
 Jogo criado para a cadeira LCOM.
 Ver o pdf na pasta DOC para mais detalhes.
-Vídeo -> https://www.youtube.com/watch?v=qVklpdX0Ras
+
+## Gameplay vídeo -> https://www.youtube.com/watch?v=qVklpdX0Ras
 
 ### Menu
 
